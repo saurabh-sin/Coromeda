@@ -18,7 +18,7 @@
 
 <h2>Images</h2>
 
-![HomePage of Website](./public/images/home.jpg)
+![HomePage of Website](https://res.cloudinary.com/ddm7rplpt/image/upload/v1679730986/images/home_msul3f.jpg)
 
 ![Sign In/Sign Up](./public/images/signin.jpg)
 
