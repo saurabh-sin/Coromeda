@@ -20,11 +20,11 @@
 
 ![HomePage of Website](https://res.cloudinary.com/ddm7rplpt/image/upload/v1679730986/images/home_msul3f.jpg)
 
-![Sign In/Sign Up](./public/images/signin.jpg)
+![Sign In/Sign Up](https://res.cloudinary.com/ddm7rplpt/image/upload/v1679731111/images/signin_q3kh1l.jpg)
 
-![Add Product](./public/images/add.jpg)
+![Add Product](https://res.cloudinary.com/ddm7rplpt/image/upload/v1679731117/images/add_zsilh8.jpg)
 
-![My Product](./public/images/myproduct.jpg)
+![My Product](https://res.cloudinary.com/ddm7rplpt/image/upload/v1679730986/images/home_msul3f.jpg)
 
 <h2>Description</h2>
 
